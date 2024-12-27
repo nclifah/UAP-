@@ -11,7 +11,7 @@ Fitur:
  
 Cara Mengggunakan:
 1. Menambahkan Tugas : Isi semua field input (Title, Description, Date Time). Klik tombol Add Task untuk menambahkan tugas ke daftar. Tugas akan mencul ditabel di bawah.
-2. Mengahpus Tugas : Klik pada baris tugas yang ingin dihapus di table. Klik tombol Delete Task. Tugas akan dihapus dari daftar dan dari file tasks.txt
+2. Menghapus Tugas : Klik pada baris tugas yang ingin dihapus di table. Klik tombol Delete Task. Tugas akan dihapus dari daftar dan dari file tasks.txt
 3. Mmebersihkan Input : Klik tombol Clear Fields untuk menghapus semua isi field input.
    
 Sruktur File :
